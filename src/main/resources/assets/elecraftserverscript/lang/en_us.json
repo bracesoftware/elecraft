@@ -1,0 +1,13 @@
+{
+  "itemGroup.elecraftserverscript": "Example Mod Tab",
+  "block.elecraftserverscript.example_block": "Example Block",
+  "item.elecraftserverscript.example_item": "Example Item",
+
+  "elecraftserverscript.configuration.title": "EleCraft Server Script Configs",
+  "elecraftserverscript.configuration.section.elecraftserverscript.common.toml": "EleCraft Server Script Configs",
+  "elecraftserverscript.configuration.section.elecraftserverscript.common.toml.title": "EleCraft Server Script Configs",
+  "elecraftserverscript.configuration.items": "Item List",
+  "elecraftserverscript.configuration.logDirtBlock": "Log Dirt Block",
+  "elecraftserverscript.configuration.magicNumberIntroduction": "Magic Number Text",
+  "elecraftserverscript.configuration.magicNumber": "Magic Number"
+}
